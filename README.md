@@ -1,14 +1,14 @@
-# Erin's K&M Input Mod
+# CrossCode Keyboard & Mouse Input Tweak
 
 This mod is dependant on dmitmel's CrossCode Tweak Pack (https://github.com/dmitmel/crosscode-tweak-pack), 
 specifically for defining/binding mouse inputs 4 and 5, adjusting their default value from mouse 1.
 
 # Install Instructions
 
-1)	Install [CCLoader](https://github.com/CCDirectLink/CCLoader) into your CrossCode directory (`assets/mods`).
-2)	Install [CrossCode Tweak Pack](https://github.com/CCDirectLink/CCLoader) into your mod directory.
-3)	Install [Input-api](https://github.com/CCDirectLink/input-api) into your mod directory.
-3)	Download a release, place CCKeyboard-MouseInputMod-1.0.0.ccmod into your mod directory.
+1)	Install [CCLoader](https://github.com/CCDirectLink/CCLoader) into your CrossCode directory.
+2)	Install [CrossCode Tweak Pack](https://github.com/CCDirectLink/CCLoader) into `assets/mods`.
+3)	Install [Input-api](https://github.com/CCDirectLink/input-api) into `assets/mods`.
+3)	Download the release, place CCKeyboard-MouseInputMod-1.0.0.ccmod into `assets/mods`.
 
 # What This Mod Does
 
