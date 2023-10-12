@@ -20,8 +20,8 @@ specifically for defining/binding Mouse Inputs 4 and 5, adjusting their default 
 
 It is recommended to bind 'Dash' to your space bar, and disable the "Melee Mouse Input" option in the Interface tab.
 
-# Build Instructions
+# Alter Binding Instructions
 
 1) Download source zip
 2) Alter bindings under poststart() in plugin.js
-3) Run `bash ./build.sh` to build the mod.
+3) Run `bash ./build.sh` to bundle the mod.
