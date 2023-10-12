@@ -1,7 +1,7 @@
 # CrossCode Keyboard & Mouse Input Tweak
 
-This mod is dependant on dmitmel's CrossCode Tweak Pack (https://github.com/dmitmel/crosscode-tweak-pack), 
-specifically for defining/binding mouse inputs 4 and 5, adjusting their default value from mouse 1.
+This mod is dependant on dmitmel's [CrossCode Tweak Pack](https://github.com/dmitmel/crosscode-tweak-pack), 
+specifically for defining/binding Mouse Inputs 4 and 5, adjusting their default value from Mouse 1.
 
 # Install Instructions
 
