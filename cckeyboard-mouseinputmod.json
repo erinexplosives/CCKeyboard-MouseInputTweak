@@ -1,0 +1,11 @@
+{
+    "id": "cckeyboard-mouseinput-mod",
+    "title": "Erin's Input Mod",
+    "version": "1.0.0",
+    "description": "Binds side mouse buttons and adjusts right mouse inputs",
+    "dependencies": {
+        "crosscode-tweak-pack": "*"
+    },
+    "prestart": "prestart.js",
+    "poststart": "poststart.js"
+}

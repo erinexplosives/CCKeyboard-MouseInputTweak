@@ -1,0 +1,10 @@
+{
+    "name": "erin-input-mod",
+    "ccmodHumanName": "Erin's K+M Remap Mod",
+    "version": "1.0.0",
+    "description": "Binds side mouse buttons and unbinds dash from right mouse.",
+    "dependencies": {
+        "crosscode-tweak-pack": "*"
+    },
+    "plugin": "plugin.js"
+}
