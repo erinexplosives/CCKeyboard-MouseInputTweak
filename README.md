@@ -6,7 +6,7 @@ specifically for defining/binding Mouse Inputs 4 and 5, adjusting their default 
 # Install Instructions
 
 1)	Install [CCLoader](https://github.com/CCDirectLink/CCLoader) into your CrossCode directory.
-2)	Install [CrossCode Tweak Pack](https://github.com/CCDirectLink/CCLoader) into `assets/mods`.
+2)	Install [CrossCode Tweak Pack]([https://github.com/CCDirectLink/CCLoader](https://github.com/dmitmel/crosscode-tweak-pack)) into `assets/mods`.
 3)	Install [Input-api](https://github.com/CCDirectLink/input-api) into `assets/mods`.
 3)	Download the release, place CCKeyboard-MouseInputMod-1.0.0.ccmod into `assets/mods`.
 
